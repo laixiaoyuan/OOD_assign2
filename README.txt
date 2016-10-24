@@ -1,0 +1,2 @@
+READMEXiaoyuan LaiCOEN275 Object-Oriented Analysis, Design and ProgrammingAssignment 2Using IntelliJ, Java version 1.8
+Please note that in the Main, test case is commented out.jar file at:  /out/artifacts/lai_assign2_jar/lai.assign2.jar
